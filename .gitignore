@@ -1,0 +1,21 @@
+# Simulation outputs
+sim/*.vvp
+sim/*.vcd
+
+# Vivado generated files
+.vivado/
+vivado/
+*.jou
+*.log
+*.str
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
